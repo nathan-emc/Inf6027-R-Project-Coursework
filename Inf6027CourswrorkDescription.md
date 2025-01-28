@@ -3,9 +3,12 @@
 _Overview_
 This project analyzes whether levels of different acoustic features of songs, can predict their popularity, and whether this changes accross different genres.
 
+_Downloading the R Project_
+To Download the R Project, click on <> Code on 'https://github.com/nathan-emc/Inf6027-and-Inf4000-R-Project-Coursework/'; and then download the project as a .zip file. After this, unzip the file to your desired location, and the Inf6026 R Project should be available in the folder 'Inf6027 R Project Coursework'.
+
 _Running the Code_
 The provided R Project, provides the neccessary .csv files, and R script to run the whole project.
-To run the code, open 'Individual Project Coursework.Rproj', and then select the parts of the code which you want to run within the source pane, and then click run. All visualisations that are created should be visible on the output pane, and all summaries of regressions, and statistical results should be available on the console pane.
+To run the code, open 'Individual Project Coursework.Rproj', and then open the R script named 'Introduction to Data Science Coursework.R'. After this, select the parts of the code which you want to run within the source pane, and then click run. All visualisations that are created should be visible on the output pane, and all summaries of regressions, and statistical results should be available on the console pane. 
 
 _Analysis_
   What Analysis was run
