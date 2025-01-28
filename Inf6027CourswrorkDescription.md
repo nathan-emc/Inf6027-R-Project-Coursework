@@ -1,4 +1,4 @@
-**Acoustic Features and Song Popularity Analysis**
+
 
 _Overview_
 This project analyzes whether levels of different acoustic features of songs, can predict their popularity, and whether this changes accross different genres.
